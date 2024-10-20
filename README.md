@@ -2,8 +2,7 @@
 
 ### 💻 Competitive Programmer | 🚀 Software Developer | 🎯 DSA Enthusiast | 🤖 AIML Student
 
-Welcome to my GitHub profile! I am a passionate Computer Science and Engineering (CSE) student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. I enjoy building innovative projects, solving complex problems, and contributing to the tech community.
-
+Welcome to my GitHub profile! I'm a coder with a passion for learning new things. I'm always looking for new challenges and love to solve problems.
 ## 🔭 Current Role
 - **Contributor & Campus Ambassador** at GirlScript Summer of Code 2024 (Oct 2024 - Present)
 
