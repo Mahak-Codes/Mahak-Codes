@@ -3,8 +3,7 @@
 ### 💻 Competitive Programmer | 🚀 Software Developer | 🎯 DSA Enthusiast | 🤖 AIML Student
 
 Welcome to my GitHub profile! I'm a coder with a passion for learning new things. I'm always looking for new challenges and love to solve problems.
-## 🔭 Current Role
-- **Contributor & Campus Ambassador** at GirlScript Summer of Code 2024 (Oct 2024 - Nov 2024)
+
 
 ## 🚀 Skills
 - **Programming Languages**: C/C++, Python, HTML, CSS*, JavaScript, Java*
